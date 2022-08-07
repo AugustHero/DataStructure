@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 #include<string.h>
-int main(void){
+int main(){
 	int i, sign=1, length; 	//符号变量sign 
 	char str[10];			//定义一个字符数组 
 	printf("输入长度不超过10的字符串：\n");
